@@ -25,7 +25,7 @@
                     <a data-toggle="dropdown">
                         <img class="nav-user-photo" src="../assets/avatars/user.jpg" alt="Jason's Photo" />
                         <span class="user-info">
-                            <small>欢迎光临,</small>
+                            <small>牛逼,</small>
                             最帅的涂齐康
                         </span>
                     </a>
